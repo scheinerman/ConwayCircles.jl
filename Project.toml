@@ -1,0 +1,10 @@
+name = "ConwayCircles"
+uuid = "35ace839-fd9b-4fd5-a75d-c244bca760da"
+version = "0.0.0"
+authors = ["Ed Scheinerman <ers@jhu.edu>"]
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SimpleDrawing = "d78a06e8-ae74-583c-9a07-0d6572347000"
+SimpleDrawingObjects = "89d8b4ea-5f62-47ee-b8a8-d90862f742b0"
+Clines = "b03ef683-e087-4e84-9649-40693305c655"
