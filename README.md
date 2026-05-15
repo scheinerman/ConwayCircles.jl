@@ -8,7 +8,7 @@ Let $a$ be the length of the side opposite vertex $A$. Extend the segments $AB$ 
 
 Repeat this at $B$ and at $C$. 
 
-The six points at the ends of these line segments are collinear!
+The six points at the ends of these line segments lie on a common circle!
 
 See [https://en.wikipedia.org/wiki/Conway_circle_theorem](https://en.wikipedia.org/wiki/Conway_circle_theorem)
 
