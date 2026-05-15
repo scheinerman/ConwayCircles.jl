@@ -1,6 +1,6 @@
 name = "ConwayCircles"
 uuid = "35ace839-fd9b-4fd5-a75d-c244bca760da"
-version = "0.0.0"
+version = "0.1.0"
 authors = ["Ed Scheinerman <ers@jhu.edu>"]
 
 [deps]
